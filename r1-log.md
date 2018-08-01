@@ -11,3 +11,4 @@ Started FreeCodeCamp. Starting on Basic HTML and HTML 5
 Finished Basic HTML and HTML 5. Now working on Basic CSS
 
 ### R1D3
+Started back on CSS. Was away on holiday for a couple days 
