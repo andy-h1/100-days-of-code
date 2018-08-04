@@ -17,3 +17,9 @@
  **Today's Progress**: Started back on CSS. Was away on holiday for a couple days
  
  **Thoughts:** Very frustrating evening as I was stuck on "Importing Google Fonts" - got stuck on one of the challenges stating I didn't have a H2 selector on. Had to do a lot of trial and error to finally get it to work. Clearly taking a holiday slows down progress and makes me rusty. 
+ 
+ ### Day 4: 4th August 2018
+ 
+ **Today's Progress**: Been recovering from an illness. Nearly finishing on CSS
+ 
+ **Thoughts:** Been feeling ill the last couple of days so took some time off. Back on it and understanding margins, padding etc. Was on a roll until FreeCodeCamp went down for maintenance. Hoping to finish CSS by tomorrow/Monday. Have a wedding tomorrow so will be difficult to find time. 
