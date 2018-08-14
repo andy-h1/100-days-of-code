@@ -23,3 +23,9 @@
  **Today's Progress**: Been recovering from an illness. Nearly finishing on CSS
  
  **Thoughts:** Been feeling ill the last couple of days so took some time off. Back on it and understanding margins, padding etc. Was on a roll until FreeCodeCamp went down for maintenance. Hoping to finish CSS by tomorrow/Monday. Have a wedding tomorrow so will be difficult to find time. 
+
+### Day 5: 11th August 2018
+
+**Today's Progress**: Finished Basic CSS on FreeCodeCamp. 
+
+**Thoughts:** Finding out that committing one hour a day is quite difficult and I need to be more proactive with it. Not managed to do it over the last couple of weeks which is bad. Will try and set an hour anytime in the day just to code. Really enjoyed learning Basic CSS. 
