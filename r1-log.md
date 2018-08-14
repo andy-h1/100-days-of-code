@@ -15,3 +15,7 @@ Started back on CSS. Was away on holiday for a couple days
 
 ### R1D4
 Been feeling ill the last couple of days so took some time off. Back on it and understanding margins, padding etc. Was on a roll until FreeCodeCamp went down for maintenance. 
+
+
+### R1D5
+Today's Progress: Finished Basic CSS on FreeCodeCamp.
