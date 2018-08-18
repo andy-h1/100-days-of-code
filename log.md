@@ -29,3 +29,9 @@
 **Today's Progress**: Finished Basic CSS on FreeCodeCamp. 
 
 **Thoughts:** Finding out that committing one hour a day is quite difficult and I need to be more proactive with it. Not managed to do it over the last couple of weeks which is bad. Will try and set an hour anytime in the day just to code. Really enjoyed learning Basic CSS. 
+
+### Day 6: 18th August 2018
+
+**Today's Progress**: Currently studying Visual Design.
+
+**Thoughts:** Been working on Visual Design the last 2 days. Learning a lot about colors. Need to be more disciplined and regularly update Github and Twitter on my progress. 
