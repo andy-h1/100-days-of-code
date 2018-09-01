@@ -24,3 +24,6 @@ Currently working on Basic Visual Design. Has a lot of similarities to Basic CSS
 
 ### R1D7
 Learning a lot about colors in Visual Design. 
+
+### R1D8
+Finished Visual Design and now working on "Accessibility" on FreedCodeCamp
