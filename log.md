@@ -35,3 +35,9 @@
 **Today's Progress**: Currently studying Visual Design.
 
 **Thoughts:** Been working on Visual Design the last 2 days. Learning a lot about colors. Need to be more disciplined and regularly update Github and Twitter on my progress. 
+
+### Day 7: 1st September 2018
+
+**Today's Progress**: Finished Visual Design and now onto "Accessibility"
+
+**Thoughts:** Finished Visual Design, really enjoyed this part of the curriculum. There was a lot to learn and clear that there are many ways to animate an object. Took a while to understand cubic-bezier but think I get it now. Will try and commit to an hour a day properly. 
