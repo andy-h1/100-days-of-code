@@ -48,3 +48,9 @@
 
 **Thoughts:** Quite an interesting curriculum. Having spent some time doing CSS and Visual Design and then understanding semantics with Accessibility was cool. Starting to understand everything a bit better now and seeing how everything fits. 
 
+### Day 9: 7th September 2018
+
+**Today's Progress**: Finished Responsive Web Design Principles. Working on CSS Flexbox Challenges next
+
+**Thoughts:** Really enjoyed this part of the curriculum seeing how clever CSS is and how it can adapt to different screen sizes. Working on CSS Flexbox challenges next. 
+
