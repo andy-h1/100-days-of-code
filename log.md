@@ -36,19 +36,25 @@
 
 **Thoughts:** Been working on Visual Design the last 2 days. Learning a lot about colors. Need to be more disciplined and regularly update Github and Twitter on my progress. 
 
-### Day 7: 1st September 2018
+### Day 7: 25th August 2018
+
+**Today's Progress**: Learning a lot about colors in Visual Design.
+
+**Thoughts:** Realised there are a lot of ways to use colours in Visual Designa and getting my head around it. Pretty awesome to see how customizable colors are in Visual Design though. 
+
+### Day 8: 1st September 2018
 
 **Today's Progress**: Finished Visual Design and now onto "Accessibility"
 
 **Thoughts:** Finished Visual Design, really enjoyed this part of the curriculum. There was a lot to learn and clear that there are many ways to animate an object. Took a while to understand cubic-bezier but think I get it now. Will try and commit to an hour a day properly. 
 
-### Day 8: 6th September 2018
+### Day 9: 6th September 2018
 
 **Today's Progress**: Finished working on Applied Accessibility Challenges
 
 **Thoughts:** Quite an interesting curriculum. Having spent some time doing CSS and Visual Design and then understanding semantics with Accessibility was cool. Starting to understand everything a bit better now and seeing how everything fits. 
 
-### Day 9: 7th September 2018
+### Day 10: 7th September 2018
 
 **Today's Progress**: Finished Responsive Web Design Principles. Working on CSS Flexbox Challenges next
 
