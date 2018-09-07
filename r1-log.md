@@ -30,3 +30,6 @@ Finished Visual Design and now working on "Accessibility" on FreeCodeCamp
 
 ### R1D9
 Finished working on Applied Accessibility Challenges. Will be working on Responsive Web Design Challenges next.
+
+### R1D10
+Finished Responsive Web Design Principles. Working on CSS Flexbox Challenges next
