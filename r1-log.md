@@ -33,3 +33,6 @@ Finished working on Applied Accessibility Challenges. Will be working on Respons
 
 ### R1D10
 Finished Responsive Web Design Principles. Working on CSS Flexbox Challenges next
+
+### R1D11
+Finished working on CSS Flexbox Challenges. Now working on CSS Grid. Getting an itch to start building something. 
