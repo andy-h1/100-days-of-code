@@ -60,3 +60,8 @@
 
 **Thoughts:** Really enjoyed this part of the curriculum seeing how clever CSS is and how it can adapt to different screen sizes. Working on CSS Flexbox challenges next. 
 
+### Day 11: 11th September 2018
+
+**Today's Progress**: Need to get better at uploading a comment everyday. Finished working on CSS Flexbox now and starting on CSS Grid
+
+**Thoughts:** CSS Flexbox is definitely awesome. Been reading up more on it and looking at CSS Tricks and a Medium blog written by FreeCodeCamp which definitely helps me understand it better. Can't wait to use it though, getting to the point where I am asking where and when will I use it. Easiest way to find out is to build something. 
